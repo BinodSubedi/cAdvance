@@ -1,0 +1,1 @@
+/usr/bin/gcc -rdynamic CMakeFiles/cAdvanced.dir/src/main.c.o CMakeFiles/cAdvanced.dir/src/ncurses/ncurses.c.o CMakeFiles/cAdvanced.dir/src/malloc/malloc.c.o CMakeFiles/cAdvanced.dir/src/linkedList/linkedList.c.o -o cAdvanced 

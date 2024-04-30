@@ -1,0 +1,3 @@
+/home/qubit/advanceC/build/out/CMakeFiles/cAdvanced.dir
+/home/qubit/advanceC/build/out/CMakeFiles/edit_cache.dir
+/home/qubit/advanceC/build/out/CMakeFiles/rebuild_cache.dir
